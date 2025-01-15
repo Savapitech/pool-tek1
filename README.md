@@ -1,7 +1,10 @@
 # pool-tek1
 Every days of the Epitech first-year pool
+
 **Beware of -42 Epitech's students !**
+
 Part 1 grade: **A** and medal
+
 ![part1-grade](https://raw.githubusercontent.com/Savapitech/pool-tek1/refs/heads/main/assets/grade.png)
 ![medal](https://raw.githubusercontent.com/Savapitech/pool-tek1/refs/heads/main/assets/medal.png)
 
