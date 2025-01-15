@@ -4,6 +4,7 @@ Every days of the Epitech first-year pool
 Part 1 grade: **A** and medal
 ![part1-grade](https://raw.githubusercontent.com/Savapitech/pool-tek1/refs/heads/main/assets/grade.png)
 ![medal](https://raw.githubusercontent.com/Savapitech/pool-tek1/refs/heads/main/assets/medal.png)
+
 Part 2 grade: **A** (my_printf is available at https://github.com/Savapitech/my_printf)
 | Day | % |
 |--|--|
@@ -22,4 +23,5 @@ Part 2 grade: **A** (my_printf is available at https://github.com/Savapitech/my_
 | Final stumper | 92.3|
 | my_printf | 88 |
 | mini_printf | 100 |
+
 ![mouli](https://raw.githubusercontent.com/Savapitech/pool-tek1/refs/heads/main/assets/mouli.png)
