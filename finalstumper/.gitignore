@@ -1,0 +1,40 @@
+##
+## EPITECH PROJECT, 2024
+## finalstumper
+## File description:
+## .gitignore
+##
+
+# IDE
+.idea
+.vscode
+
+# Bin
+rush3
+a.out
+test
+bin/
+
+# Build
+*.o
+*.out
+*.[aod]
+*.cor
+
+# nix
+.direnv
+.pre-commit-config.yaml
+result
+
+# Cache
+.cache
+.fast
+
+# Coverage
+*.gc??
+testcmd
+tester.sh
+unit_tests
+
+# Python (CI)
+*.pyc
